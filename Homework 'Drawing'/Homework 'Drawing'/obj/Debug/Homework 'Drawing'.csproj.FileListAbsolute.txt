@@ -1,0 +1,7 @@
+D:\Project C#\Homework 'Drawing'\Homework 'Drawing'\obj\Debug\Homework 'Drawing'.csprojResolveAssemblyReference.cache
+D:\Project C#\Homework 'Drawing'\Homework 'Drawing'\obj\Debug\Homework 'Drawing'.csproj.CoreCompileInputs.cache
+D:\Project C#\Homework 'Drawing'\Homework 'Drawing'\bin\Debug\Homework 'Drawing'.exe.config
+D:\Project C#\Homework 'Drawing'\Homework 'Drawing'\bin\Debug\Homework 'Drawing'.exe
+D:\Project C#\Homework 'Drawing'\Homework 'Drawing'\bin\Debug\Homework 'Drawing'.pdb
+D:\Project C#\Homework 'Drawing'\Homework 'Drawing'\obj\Debug\Homework 'Drawing'.exe
+D:\Project C#\Homework 'Drawing'\Homework 'Drawing'\obj\Debug\Homework 'Drawing'.pdb
